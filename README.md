@@ -54,7 +54,7 @@ pytest -sv
 ```
 </details>
 
-<details><summary>3. Свормировать отчет о прохождении тестов в allure</summary>
+<details><summary>3. Сформировать отчет о прохождении тестов в allure</summary>
 
 ```
 allure serve allure-results
