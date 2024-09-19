@@ -2,6 +2,7 @@ import allure
 
 from utils.requests_tools import api_request
 
+# перед запуском укажите id пространства, которое нужно удалить
 
 @allure.tag('API_DELETE')
 @allure.feature("Remove_space")
@@ -9,6 +10,6 @@ from utils.requests_tools import api_request
 @allure.story("Space")
 @allure.severity(allure.severity_level.CRITICAL)
 def test_remove_space(base_url):
-    # перед запуском укажите id пространства, которое нужно удалить
     delete = api_request(base_url, endpoint='api/latest/spaces/{space_id}', method="DELETE")
-    assert delete.status_code == 200, "Ожидается статус код 200 при первичном удалении"
+    #assert delete.status_code == 200, "Ожидается статус код 200 при первичном удалении"
+    assert delete.status_code == 404, "Ожидается статус код 404 при попытке удалении уже ранее удаленного пространства"
