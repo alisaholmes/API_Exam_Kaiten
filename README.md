@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" width="40"/>      
 <img src="design/icons/allure_testops.svg" height="40" width="40"/>     
 <img src="design/icons/telegram.png" height="40" width="40"/>     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40" width="40"/> 
+
 
 ## Список проверок API
 
