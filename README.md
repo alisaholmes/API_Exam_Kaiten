@@ -8,7 +8,7 @@
 - [Локальный запуск тестов и получение отчета](#локальный-запуск-тестов-и-получение-отчета)
 - [Отчет о результатах тестирования в Allure-reports](#отчет-о-результатах-тестирования-в-allure-reports-)
 - [Автоматическое оповещение о результатах сборки Jenkins в Telegram-бот](#автоматическое-оповещение-о-результатах-сборки-jenkins-в-telegram-бот)
-- [Дашборд Allure TestOps](#дашборд-allure-testops)
+
 
 
 ## Технологии и инструменты
@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="40" width="40"/>
-<img src="https://camo.githubusercontent.com/e8c35be9136635c1b2e2b22b112e02ef1fb9e9434970df18d84071a2e714d3e0/68747470733a2f2f616c6c7572657265706f72742e6f72672f7075626c69632f696d672f616c6c7572652d7265706f72742e737667" title="allure" alt="allure" width="40" height="40"/>&nbsp     
+<img src="design/icons/Allure_Report.svg" height="40" width="40"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" width="40"/>      
 <img src="design/icons/allure_testops.svg" height="40" width="40"/>     
 <img src="design/icons/telegram.png" height="40" width="40"/>     
@@ -68,7 +68,7 @@ allure generate
 
 <details><summary>4. После выполнения команды откроется браузер с отчетом</summary>
 
-## <img src="https://camo.githubusercontent.com/e8c35be9136635c1b2e2b22b112e02ef1fb9e9434970df18d84071a2e714d3e0/68747470733a2f2f616c6c7572657265706f72742e6f72672f7075626c69632f696d672f616c6c7572652d7265706f72742e737667" title="allure" alt="allure" width="30" height="30"/> Отчет в Allure report</a></a>
+## <img src="design/icons/Allure_Report.svg" height="40" width="40"/> Отчет в Allure report</a></a>
 
 <details><summary>Отчет о результатах тестирования в Allure-reports</summary>
 
@@ -80,3 +80,8 @@ allure generate
 <img src="design/images/allure_logs.png">
 
 </details>
+
+
+## Автоматическое оповещение о результатах сборки Jenkins в Telegram-бот
+
+![This is an image](design/images/tele.png)
