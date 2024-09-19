@@ -81,7 +81,6 @@ allure generate
 
 </details>
 
-
 ## Автоматическое оповещение о результатах сборки Jenkins в Telegram-бот
 
 ![This is an image](design/images/tele.png)
