@@ -50,7 +50,7 @@ git clone git@github.com:alisaholmes/API_Exam_Kaiten.git
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-pytest -sv
+pytest . || true
 ```
 </details>
 
