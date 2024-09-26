@@ -7,7 +7,7 @@
 - [Список проверок API](#список-проверок-api)
 - [Сборка проекта и запуск тестов в Jenkins с параметрами](#сборка-проекта-и-запуск-тестов-в-jenkins-с-параметрами)
 - [Локальный запуск тестов и получение отчета](#локальный-запуск-тестов-и-получение-отчета)
-- [Отчет в Allure-report](#img-srcdesigniconsallure_reportsvg-height40-width40-отчет-в-allure-report)
+- [Отчет в Allure-report](#отчет-в-allure-report)
 - [Автоматическое оповещение о результатах сборки Jenkins в Telegram-бот](#автоматическое-оповещение-о-результатах-сборки-jenkins-в-telegram-бот)
 - [Возможности Allure TestOps](#возможности-allure-testops)
 
@@ -77,7 +77,7 @@ allure generate
 
  После выполнения команды в проекте появится папка Allure-report или автоматически откроется браузер с Allure-отчетом
 
-## <img src="design/icons/Allure_Report.svg" height="40" width="40"/> Отчет в Allure-report
+## Отчет в Allure-report
 
 <details><summary>Отчет о результатах тестирования в Allure-reports</summary>
 
