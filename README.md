@@ -76,7 +76,7 @@ allure generate
 ```
 </details>
 
-<details><summary>4. После выполнения команды в проекте появится папка Allure-report или автоматически откроется браузер с Allure-отчетом</summary></details>
+ После выполнения команды в проекте появится папка Allure-report или автоматически откроется браузер с Allure-отчетом
 
 ## <img src="design/icons/Allure_Report.svg" height="40" width="40"/> Отчет в Allure report</a></a>
 
