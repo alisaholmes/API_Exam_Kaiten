@@ -25,7 +25,6 @@
 <img src="design/icons/allure_testops.svg" height="40" width="40"/>     
 <img src="design/icons/telegram.png" height="40" width="40"/>     
 
-
 ## Список проверок API
 
 - [x] Проверка успешной авторизации (GET-запрос)
