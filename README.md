@@ -70,7 +70,7 @@ pytest . || true
 allure serve allure-results
 ```
 Или 
-
+ 
 ```
 allure generate
 ```
